@@ -93,6 +93,6 @@ python main.py
 ## 📬 Contact
 
 Project by **Dhrudeep Vaghasiya**  
-**Algo-Trading System with ML & Automation** assignment.
+**Algo-Trading System with ML & Automation**.
 
 ---
